@@ -42,7 +42,7 @@ after applying datasource restart the server
 >Enable the new datasource.
 In order to stop the server, press CTRL-C in the console window that was opened during step 3.
 
-install eclipse-jee
-`brew cask install eclipse-jee`
+install eclipse-modeling
+`brew cask install eclipse-modeling`
 
 after this the original [tutorial](http://wwu-pi.github.io/tutorials/lectures/acse/010_setting_up_the_dev_environment.html) can be followed again.
