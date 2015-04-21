@@ -10,7 +10,7 @@ Install java
 `brew cask install java`
 
 Install wildfly
-`brew install wildfly`
+`brew install wildfly-as`
 
 open .bash_profile with:
 `vi .bash_profile`
