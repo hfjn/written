@@ -46,3 +46,10 @@ install eclipse-modeling
 `brew cask install eclipse-modeling`
 
 after this the original [tutorial](http://wwu-pi.github.io/tutorials/lectures/acse/010_setting_up_the_dev_environment.html) can be followed again.
+
+Additional comments:
+> The Library application still uses Java 7, so I needed to additionally install JDK 7.
+> This can be done by using the following commands:
+
+> `brew tap caskroom/versions`
+> `brew cask install java7`
